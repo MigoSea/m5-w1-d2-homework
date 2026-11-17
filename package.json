@@ -1,0 +1,24 @@
+{
+  "name": "react-todo-list-v2",
+  "version": "1.0.0",
+  "description": "Westcliff WEB 403/603 Week 1 Day 2 Homework - ToDo List v2 App",
+  "keywords": ["react", "starter"],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.0",
+    "reactstrap": "8.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
